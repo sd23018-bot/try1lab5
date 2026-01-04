@@ -1,12 +1,12 @@
 streamlit==1.24.0
-google-generativeai
+
 python-dotenv
 langchain
 PyPDF2
 chromadb
 pdf2image
 faiss-cpu
-langchain_google_genai
+
 numpy
 pandas
 matplotlib
@@ -15,3 +15,4 @@ requests
 plotly
 torch
 torchvision
+
